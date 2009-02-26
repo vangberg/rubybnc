@@ -1,0 +1,19 @@
+<root>
+	<rubybnc port="9990">
+		<password>doh</password>
+		<versionreply>RubyBNC a0.2-cvs - http://rubybnc.rubyforge.org</versionreply>
+	</rubybnc>
+
+	<irc>
+		<nick realname="RubyBNC uzah!">rubybnc</nick>
+		<server port="6667">irc.newlan.dk</server>
+		<channels>
+			<channel>#25cl</channel>
+			<channel>#newlan</channel>
+		</channels>
+	</irc>
+
+	<log>
+		<maxsize>10</maxsize>
+	</log>
+</root>

@@ -1,0 +1,8 @@
+2003-11-09 Harry Vangberg <harry@minignom.dk>
+	* Added a 'motd' file, so you can specify your own MOTD.
+	* Made configuration in XML style.
+	* Splitted up the source in smaller parts.
+	
+
+2003-11-09 Harry Vangberg <harry@minignom.dk>
+	* First release of alpha 0.2. Now using classes.

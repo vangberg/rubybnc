@@ -1,0 +1,25 @@
+RubyBNC alpha 0.2-cvs
+(c) 2003 Harry Vangberg <harry@minignom.dk>
+
+Depencendies: rexml, in debian: 'apt-get install librexml-ruby'
+
+1. Edit the config.xml to fit your needings. I think its quite self-explanary ... else come ask on IRC ;)
+
+2. Run rubybnc:
+	% ruby rubybnc.rb
+
+3. Then connect to the port you specified in config.xml. When you want to detach, simply /quit. 
+
+If you want to shut down the program, then do: /quit disc
+
+-------------------------------------
+
+TODO:
+(in random order)
+
+* Clean shutdown
+* ...
+
+---------------------------------------
+
+http://rubybnc.sf.net
